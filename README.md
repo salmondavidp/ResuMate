@@ -4,7 +4,7 @@ AI-Powered Resume Analyzer
 
 ## Overview
 
-The **AI-Powered Resume Analyzer** is a web application designed to help job seekers optimize their resumes for specific job roles. By leveraging advanced AI capabilities, this tool evaluates resumes against provided job descriptions, offering instant insights and personalized feedback. Users can easily upload their resumes in PDF format and enter job descriptions to receive detailed analyses, helping them improve their chances of landing their dream job.
+The **AI-Powered Resume Analyzer - ResuMate** is a web application designed to help job seekers optimize their resumes for specific job roles. By leveraging advanced AI capabilities, this tool evaluates resumes against provided job descriptions, offering instant insights and personalized feedback. Users can easily upload their resumes in PDF format and enter job descriptions to receive detailed analyses, helping them improve their chances of landing their dream job.
 
 ## Features
 

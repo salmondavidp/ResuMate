@@ -9,7 +9,10 @@ import json
 load_dotenv()
 
 # Configure Generative AI with the API key
-api_key = os.getenv("GOOGLE_API_KEY")
+# Make sure to add your GOOGLE_API_KEY to the environment before running the application.
+# You can do this by creating a .env file in the root directory with the following format:
+# GOOGLE_API_KEY=your_api_key_here
+api_key = os.getenv("GOOGLE_API_KEY") 
 if api_key is None:
     st.error("API key is not set. Please check your .env file.")
 else:

@@ -29,3 +29,6 @@ To run the AI-Powered Resume Analyzer locally, follow these steps:
    ```bash
    git clone https://github.com/salmondavidp/ResuMate/
    cd ResuMate
+2. **Run the Streamlit Application**
+    ```bash
+    streamlit run res.py

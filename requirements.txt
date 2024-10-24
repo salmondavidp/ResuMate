@@ -2,3 +2,8 @@ streamlit
 google-generativeai
 python-dotenv
 pdf2image
+
+pip install streamlit
+pip install google-generativeai
+pip install python-dotenv
+pip install pdf2image

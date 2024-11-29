@@ -20,6 +20,8 @@ The **AI-Powered Resume Analyzer - ResuMate** is a web application designed to h
 - **Google Generative AI**: Utilized for generating insightful analyses and feedback.
 - **PyPDF2**: A library for extracting text from PDF files.
 - **dotenv**: Used for managing environment variables securely.
+
+## Screenshot
 ![image alt](https://github.com/salmondavidp/ResuMate/blob/e91195c31847217201680ceca592ddb2b1599ee2/screenshot.png)
 ## Getting Started
 
